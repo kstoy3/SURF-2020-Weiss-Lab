@@ -38,9 +38,11 @@ The Human Genome Project has led to the sequencing of 94% percent of human DNA1.
 ## Credits
 Primary Contributer:
 - Kristina Stoyanova (Undergraduate at Caltech)
+
 Mentors:
 - Professor Ron Weiss (Ron Weiss Lab at MIT), 
 - PhD candidate Sebsastian Palacios (Weiss Lab at MIT)
+
 Sponsors: 
 - Caltech SFP Office
 
